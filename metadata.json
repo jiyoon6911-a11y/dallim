@@ -1,5 +1,5 @@
 {
-  "name": "달랏 마켓 렌즈",
+  "name": "달니마 (달랏 야시장 마스터)",
   "description": "달랏 야시장의 스마트한 동반자. AI로 가격을 확인하고 여행 팁을 얻으세요.",
   "requestFramePermissions": [
     "camera"
