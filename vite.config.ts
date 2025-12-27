@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: '/dallim/',  // <--- 이 줄이 없어서 안 나왔던 겁니다! (중요)
+    // base 줄 삭제함 (Vercel용)
     server: {
       port: 3000,
       host: '0.0.0.0',
